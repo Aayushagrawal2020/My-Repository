@@ -41,7 +41,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/ShayarAI.git
+git clone https://github.com/Aayushagrawal2020/ShayarAI.git
 Navigate to the project directory:
 
 Bash

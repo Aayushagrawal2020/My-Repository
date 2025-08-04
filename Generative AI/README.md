@@ -1,4 +1,6 @@
-ShayarAI 📜
+**ShayarAI** 📜
+
+
 A poetic personality chatbot that transforms everyday language into beautiful, lyrical verses using the power of Google's Gemini LLM.
 
 This project turns any simple message into a thoughtful, rhyming poem, creating an immersive experience as if you're conversing with a digital poet.
